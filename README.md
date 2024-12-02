@@ -83,11 +83,6 @@ Dieses Repository ist ein Fork von [MiroTalk-WebRTC](https://github.com/miroslav
   - Überprüfe die Logs von Keycloak und MiroTalk-WebRTC, wenn Authentifizierungsprobleme auftreten.
   - Stelle sicher, dass die Umgebungsvariablen korrekt gesetzt sind.
 
----
-
-## Nächste Schritte
-- Validierung der Änderungen und Durchführung von Tests in verschiedenen Umgebungen.
-- Erweiterung der Frontend-Integration für Benutzerrollen und Berechtigungen (falls erforderlich).
 
 ---
 
